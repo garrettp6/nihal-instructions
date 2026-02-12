@@ -10,6 +10,6 @@
 
 ### Installing Simple Voice Chat
 1. Download simple voice chat: [https://modrinth.com/plugin/simple-voice-chat](https://modrinth.com/plugin/simple-voice-chat/version/pFTZ8sqQ)
-2. Press Windows + R and type in %APPDATA%\.minecraft\mods
+2. Press Windows + R and type in %APPDATA%\\.minecraft\mods
 3. Move the simple voice chat mod into the mods folder
 4. Start the game.
